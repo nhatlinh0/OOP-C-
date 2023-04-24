@@ -1,0 +1,14 @@
+Z:\2111808 _ Nguyen Xuan Tuong An\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.exe.config
+Z:\2111808 _ Nguyen Xuan Tuong An\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.exe
+Z:\2111808 _ Nguyen Xuan Tuong An\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.pdb
+Z:\2111808 _ Nguyen Xuan Tuong An\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csprojResolveAssemblyReference.cache
+Z:\2111808 _ Nguyen Xuan Tuong An\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.exe
+Z:\2111808 _ Nguyen Xuan Tuong An\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.pdb
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.exe.config
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.exe
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.pdb
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.AssemblyReference.cache
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.exe
+C:\Users\Linh\Downloads\Tài liệu\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.pdb

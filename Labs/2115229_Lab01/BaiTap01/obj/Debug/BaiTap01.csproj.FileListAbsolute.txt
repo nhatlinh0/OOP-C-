@@ -1,0 +1,6 @@
+C:\Users\cict\Downloads\1\1\2115229_Lab01\BaiTap01\bin\Debug\BaiTap01.exe.config
+C:\Users\cict\Downloads\1\1\2115229_Lab01\BaiTap01\bin\Debug\BaiTap01.exe
+C:\Users\cict\Downloads\1\1\2115229_Lab01\BaiTap01\bin\Debug\BaiTap01.pdb
+C:\Users\cict\Downloads\1\1\2115229_Lab01\BaiTap01\obj\Debug\BaiTap01.csprojResolveAssemblyReference.cache
+C:\Users\cict\Downloads\1\1\2115229_Lab01\BaiTap01\obj\Debug\BaiTap01.exe
+C:\Users\cict\Downloads\1\1\2115229_Lab01\BaiTap01\obj\Debug\BaiTap01.pdb

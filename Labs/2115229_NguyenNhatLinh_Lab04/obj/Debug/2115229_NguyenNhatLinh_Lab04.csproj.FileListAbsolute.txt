@@ -1,0 +1,9 @@
+Z:\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\bin\Debug\2115229_NguyenNhatLinh_Lab04.exe.config
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\bin\Debug\2115229_NguyenNhatLinh_Lab04.exe.config
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\bin\Debug\2115229_NguyenNhatLinh_Lab04.exe
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\bin\Debug\2115229_NguyenNhatLinh_Lab04.pdb
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\obj\Debug\2115229_NguyenNhatLinh_Lab04.csproj.AssemblyReference.cache
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\obj\Debug\2115229_NguyenNhatLinh_Lab04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\obj\Debug\2115229_NguyenNhatLinh_Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\obj\Debug\2115229_NguyenNhatLinh_Lab04.exe
+C:\Users\Linh\Downloads\Compressed\2115229_NguyenNhatLinh_Lab04\2115229_NguyenNhatLinh_Lab04\obj\Debug\2115229_NguyenNhatLinh_Lab04.pdb

@@ -1,0 +1,15 @@
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.csproj.AssemblyReference.cache
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.AssemblyInfoInputs.cache
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.AssemblyInfo.cs
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.csproj.CoreCompileInputs.cache
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\bin\Debug\net6.0\vidu_KeThua.exe
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\bin\Debug\net6.0\vidu_KeThua.deps.json
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\bin\Debug\net6.0\vidu_KeThua.runtimeconfig.json
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\bin\Debug\net6.0\vidu_KeThua.dll
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\bin\Debug\net6.0\vidu_KeThua.pdb
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.dll
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\refint\vidu_KeThua.dll
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.pdb
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\vidu_KeThua.genruntimeconfig.cache
+D:\Subjects\LTHDT\CTK45B\Example\vidu_KeThua\vidu_KeThua\obj\Debug\net6.0\ref\vidu_KeThua.dll

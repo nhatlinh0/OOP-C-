@@ -1,0 +1,6 @@
+C:\Users\cict\Downloads\1\1\2115229_Lab01\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\cict\Downloads\1\1\2115229_Lab01\Bai02\bin\Debug\Bai02.exe
+C:\Users\cict\Downloads\1\1\2115229_Lab01\Bai02\bin\Debug\Bai02.pdb
+C:\Users\cict\Downloads\1\1\2115229_Lab01\Bai02\obj\Debug\Bai02.csprojResolveAssemblyReference.cache
+C:\Users\cict\Downloads\1\1\2115229_Lab01\Bai02\obj\Debug\Bai02.exe
+C:\Users\cict\Downloads\1\1\2115229_Lab01\Bai02\obj\Debug\Bai02.pdb

@@ -1,0 +1,15 @@
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\bin\Debug\net6.0\Vidu_PhanSo.exe
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\bin\Debug\net6.0\Vidu_PhanSo.deps.json
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\bin\Debug\net6.0\Vidu_PhanSo.runtimeconfig.json
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\bin\Debug\net6.0\Vidu_PhanSo.dll
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\bin\Debug\net6.0\Vidu_PhanSo.pdb
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.csproj.AssemblyReference.cache
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.AssemblyInfoInputs.cache
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.AssemblyInfo.cs
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.csproj.CoreCompileInputs.cache
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.dll
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\refint\Vidu_PhanSo.dll
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.pdb
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\Vidu_PhanSo.genruntimeconfig.cache
+D:\Subjects\LTHDT\CTK45B\Example\Vidu_PhanSo\Vidu_PhanSo\obj\Debug\net6.0\ref\Vidu_PhanSo.dll

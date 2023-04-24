@@ -1,0 +1,13 @@
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\bin\Debug\netcoreapp3.1\Lab2_XLMangChuoi.exe
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\bin\Debug\netcoreapp3.1\Lab2_XLMangChuoi.deps.json
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\bin\Debug\netcoreapp3.1\Lab2_XLMangChuoi.runtimeconfig.json
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\bin\Debug\netcoreapp3.1\Lab2_XLMangChuoi.runtimeconfig.dev.json
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\bin\Debug\netcoreapp3.1\Lab2_XLMangChuoi.dll
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\bin\Debug\netcoreapp3.1\Lab2_XLMangChuoi.pdb
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.csprojAssemblyReference.cache
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.csproj.CoreCompileInputs.cache
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.AssemblyInfoInputs.cache
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.AssemblyInfo.cs
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.dll
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.pdb
+E:\luongnt\LTHDT_TN\Example\Lab2_XuLyChuoi\Lab2_XLMangChuoi\obj\Debug\netcoreapp3.1\Lab2_XLMangChuoi.genruntimeconfig.cache
